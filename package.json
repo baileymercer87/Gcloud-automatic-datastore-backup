@@ -1,0 +1,14 @@
+{
+  "name": "signoff1-autobackup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bailey Mercer",
+  "license": "ISC",
+  "dependencies": {
+    "google-auth-library": "^7.11.0"
+  }
+}
